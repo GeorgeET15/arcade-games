@@ -1,0 +1,11 @@
+# Build artifacts
+game
+game.exe
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# Misc
+*.log

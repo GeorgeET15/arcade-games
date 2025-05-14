@@ -1,0 +1,9 @@
+{
+  "gameName": "SuperJumpAdventure",
+  "version": "1.0.0",
+  "binaryName": "game",
+  "main": "main.c",
+  "iconPath": "",
+  "author": "GeorgeET15",
+  "description": "A 2D platformer using Arcade Library"
+}

@@ -1,0 +1,9 @@
+{
+  "gameName": "PaddleBall",
+  "version": "1.0.0",
+  "binaryName": "game",
+  "main": "paddleball.c",
+  "iconPath": "",
+  "author": "GeorgeET15",
+  "description": "A Breakout-style arcade game built using the Arcade Library."
+}

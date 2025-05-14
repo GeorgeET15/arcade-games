@@ -1,0 +1,9 @@
+{
+  "gameName": "FlappyBird",
+  "version": "1.0.0",
+  "binaryName": "game",
+  "main": "flappybird.c",
+  "iconPath": "",
+  "author": "GeorgeET15",
+  "description": ""
+}
